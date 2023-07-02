@@ -1,0 +1,3 @@
+RegriteEngine on
+ErrorDocument 404 https://localhost/ELM/Error404.html
+ErrorDocument 500 https://localhost/ELM/Error500.html
